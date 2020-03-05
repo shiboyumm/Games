@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3.7
 # -*- coding:utf-8 -*-
-from plane_sprites_test import *
+from 飞机大战.plane_sprites_test import *
 import pygame
 
 class PlaneGame(object):
